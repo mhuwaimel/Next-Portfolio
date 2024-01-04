@@ -1,0 +1,35 @@
+{
+  "name": "mysite-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/almarai": "^5.0.4",
+    "@fontsource/cairo": "^5.0.4",
+    "@fontsource/changa": "^5.0.4",
+    "@fontsource/lateef": "^5.0.5",
+    "@fontsource/mada": "^5.0.4",
+    "@fontsource/rakkas": "^5.0.4",
+    "@fontsource/tajawal": "^5.0.4",
+    "@fontsource/vibes": "^5.0.4",
+    "@sendgrid/mail": "^7.7.0",
+    "autoprefixer": "10.4.14",
+    "flowbite": "^1.7.0",
+    "flowbite-react": "^0.4.10",
+    "framer-motion": "^10.12.18",
+    "next": "13.4.8",
+    "postcss": "8.4.25",
+    "primereact": "^9.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "tailwindcss": "3.3.2",
+    "tailwindcss-rtl": "^0.9.0",
+    "uuid": "^9.0.0"
+  }
+}
